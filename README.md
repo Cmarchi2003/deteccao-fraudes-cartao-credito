@@ -1,5 +1,7 @@
 # 💳 Detecção de Fraudes em Cartão de Crédito com Machine Learning e SHAP
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Cmarchi2003/deteccao-fraudes-cartao-credito/blob/main/Teste_de_fraude_CC_completo.ipynb)
+
 Projeto de ciência de dados e aprendizado de máquina desenvolvido para identificar transações fraudulentas em um cenário de desbalanceamento extremo, percorrendo todo o ciclo de vida: exploração, engenharia de atributos, modelagem comparativa (**Logistic Regression**, **Random Forest** e **XGBoost**), ajuste de limiar de decisão, otimização de hiperparâmetros e explicabilidade com **SHAP**.
 
 ---
