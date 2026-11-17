@@ -221,3 +221,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets pesados e arquivos de dados locais
+*.csv
+*.parquet
+*.xlsx
+*.zip
+data/
+
+# Checkpoints temporários do Jupyter Notebook / Colab
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Cache e arquivos compilados do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Variáveis de ambiente e segredos
+.env
+
+# Arquivos de sistema operacional e editores
+.DS_Store
+Thumbs.db
+.vscode/
